@@ -1,4 +1,5 @@
 # Core Flask web framework
+python-3.10.14
 flask==2.3.3
 flask-cors==4.0.0
 
